@@ -1,0 +1,9 @@
+.header {
+    flex-grow: 1;
+}
+.nav {
+    flex-grow: 2;
+}
+.footer {
+    flex-grow: 1;
+}

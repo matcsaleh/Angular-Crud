@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro ",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5000.89
+    },
+    {
+      "name": "Kindle 10",
+      "price": "299.99",
+      "id": 4
+    },
+    {
+      "name": "Teste de two way data binding",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "Playstation 4",
+      "price": "2399",
+      "id": 7
+    },
+    {
+      "name": "Call of duty ",
+      "price": "250",
+      "id": 8
+    },
+    {
+      "name": "Playstation 5",
+      "price": "7000",
+      "id": 9
+    },
+    {
+      "name": "Xbox one X",
+      "price": "2999",
+      "id": 10
+    },
+    {
+      "name": "Xbox one s",
+      "price": "1999",
+      "id": 11
+    },
+    {
+      "name": "Playstation 4 Pro",
+      "price": "3600",
+      "id": 12
+    }
+  ]
+}
